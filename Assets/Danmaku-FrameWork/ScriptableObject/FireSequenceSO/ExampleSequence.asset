@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b15280d28680a8248b52c8b9e4c62eb5, type: 3}
   m_Name: ExampleSequence
   m_EditorClassIdentifier: 
-  phases: []
+  phases:
+  - {fileID: 11400000, guid: c0f465978b390df4fb4ebd82b510f5e4, type: 2}
+  - {fileID: 11400000, guid: 8b4b40572699f9a4dae2ef3832e0b33a, type: 2}
   loop: 1
   loopCount: 1

@@ -12,18 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0237ae23973e2046859e2c0c9210e6a, type: 3}
   m_Name: BezierMove
   m_EditorClassIdentifier: 
-  duration: 1
+  duration: 3
   controlPoints:
   - {x: 0, y: 0, z: 0}
-  - {x: 2, y: 0, z: 0}
+  - {x: 12.694722, y: 0.02092743, z: 0}
+  - {x: -6, y: -6, z: 0}
+  - {x: 4.147407, y: 1.2420795, z: 0}
   easing:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
       time: 0
       value: 0
-      inSlope: 0
-      outSlope: 1
+      inSlope: 2
+      outSlope: 2
       tangentMode: 0
       weightedMode: 0
       inWeight: 0
@@ -31,7 +33,7 @@ MonoBehaviour:
     - serializedVersion: 3
       time: 1
       value: 1
-      inSlope: 1
+      inSlope: 0
       outSlope: 0
       tangentMode: 0
       weightedMode: 0

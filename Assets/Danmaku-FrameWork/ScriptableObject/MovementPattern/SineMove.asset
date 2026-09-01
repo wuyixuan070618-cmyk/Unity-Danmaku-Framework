@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99fcd3991ddd8d348a5a3ee2a37c1f21, type: 3}
   m_Name: SineMove
   m_EditorClassIdentifier: 
-  amplitude: 1
+  amplitude: 0.5
   phase: 0
   frequency: 1
-  speed: 5
+  speed: 1
   accel: 0
-  duration: 1
+  duration: 10

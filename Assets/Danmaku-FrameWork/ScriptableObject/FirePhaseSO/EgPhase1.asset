@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d82572bff9fa0d47a08e45335b267fc, type: 3}
   m_Name: EgPhase1
   m_EditorClassIdentifier: 
-  duration: 3
+  duration: 0.6
   shape: 0
-  bulletCount: 12
-  angleSpread: 30
+  bulletCount: 7
+  angleSpread: 180
   offsetAngle: 0
   aimType: 0
-  bulletPrefab: {fileID: 0}
-  bulletDefinition: {fileID: 0}
-  fireInterval: 0.5
+  bulletPrefab: {fileID: 7171831179260721347, guid: 45501a42f5d16004488cb3ecf2fccda3, type: 3}
+  bulletDefinition: {fileID: 11400000, guid: 3a7f45daef2326942a9a58c6d8520f12, type: 2}
+  fireInterval: 0.1
   rotationSpeed: 0
   randomizeAngle: 0
   randomRange: 5

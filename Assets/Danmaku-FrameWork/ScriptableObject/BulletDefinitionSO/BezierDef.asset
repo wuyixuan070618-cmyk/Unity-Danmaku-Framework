@@ -19,4 +19,4 @@ MonoBehaviour:
   layer: 0
   alignWithMovement: 0
   spriteAngleOffset: 0
-  movementConfig: {fileID: 0}
+  movementConfig: {fileID: 11400000, guid: 96c9a99892429124fa0cda7e8ec25abb, type: 2}
