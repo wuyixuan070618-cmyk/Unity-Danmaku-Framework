@@ -26,23 +26,23 @@
 Assets/Danmaku-FrameWork/
 
 ├─ Runtime/
-│  │
+
 │  ├─ BulletMovement/
-│  │
+
 │  ├─ BulletMovementConfig/
-│  │
+
 │  ├─ FirePattern/
-│  │
+
 │  ├─ Pooling/
-│  │
+
 │  ├─ Spawning/
-│  │
+
 │  └─ Trigger/
-│
+
 ├─ Editor/
-│
+
 ├─ Demo/
-│
+
 └─ ScriptableObject/
 
 
