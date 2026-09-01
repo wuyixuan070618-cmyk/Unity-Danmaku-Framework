@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d82572bff9fa0d47a08e45335b267fc, type: 3}
+  m_Name: EgPhase1
+  m_EditorClassIdentifier: 
+  duration: 3
+  shape: 0
+  bulletCount: 12
+  angleSpread: 30
+  offsetAngle: 0
+  aimType: 0
+  bulletPrefab: {fileID: 0}
+  bulletDefinition: {fileID: 0}
+  fireInterval: 0.5
+  rotationSpeed: 0
+  randomizeAngle: 0
+  randomRange: 5
