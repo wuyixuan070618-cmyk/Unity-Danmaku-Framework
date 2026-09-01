@@ -75,7 +75,7 @@ BulletSummoner
 - Runtime 与 Editor 脚本命令行编译通过。
 - 六类 Movement 已完成 Demo 运行验证。
 - Trigger 与 FormReplacer 已完成 Play Mode 生命周期测试。
-- 发布前仍需执行一次全新克隆、导入和运行验证。
+- 已从 GitHub 全新克隆，并完成从零导入、编译与 Play Mode 运行验证。
 
 ## License
 

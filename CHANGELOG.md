@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.0 - 2026-09-01
 
 - Extracted the danmaku framework into an independent Unity project.
 - Added pooled bullet and summoner spawning.
